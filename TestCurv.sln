@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TestCurv", "TestCurv\TestCurv.vcxproj", "{8472801E-1F0F-461A-BA8F-58B78812568C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DllCurv", "DllCurv\DllCurv.vcxproj", "{DEC68FE8-29D9-455F-919E-52450AF0876B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8472801E-1F0F-461A-BA8F-58B78812568C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8472801E-1F0F-461A-BA8F-58B78812568C}.Debug|Win32.Build.0 = Debug|Win32
+		{8472801E-1F0F-461A-BA8F-58B78812568C}.Release|Win32.ActiveCfg = Release|Win32
+		{8472801E-1F0F-461A-BA8F-58B78812568C}.Release|Win32.Build.0 = Release|Win32
+		{DEC68FE8-29D9-455F-919E-52450AF0876B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DEC68FE8-29D9-455F-919E-52450AF0876B}.Debug|Win32.Build.0 = Debug|Win32
+		{DEC68FE8-29D9-455F-919E-52450AF0876B}.Release|Win32.ActiveCfg = Release|Win32
+		{DEC68FE8-29D9-455F-919E-52450AF0876B}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
